@@ -22,12 +22,14 @@
     "@types/compression": "^1.7.5",
     "@types/cookie-parser": "^1.4.8",
     "@types/cors": "^2.8.17",
+    "@types/lodash": "^4.17.16",
     "@types/mongoose": "^5.11.96",
     "body-parser": "^2.2.0",
     "compression": "^1.8.0",
     "cookie-parser": "^1.4.7",
     "cors": "^2.8.5",
     "express": "4.17",
+    "lodash": "^4.17.21",
     "mongoose": "^8.13.2"
   }
 }
